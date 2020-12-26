@@ -1,5 +1,5 @@
 String a,b,c;
 a=20;
 b=10;
-c=(a+b)*10%
+c=(a+b)*25%
 system.out.println("the result is "+c);
